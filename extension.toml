@@ -1,0 +1,11 @@
+id = "turnip_text"
+name = "turnip_text"
+version = "0.1.0"
+schema_version = 1
+authors = ["Samuel W. Stark"]
+description = "Syntax highlighting and embedded-Python support for turnip_text files."
+repository = "https://github.com/theturboturnip/turnip_text_zed"
+
+[grammars.turnip_text]
+repository = "https://github.com/theturboturnip/turnip_text_treesitter"
+rev = "c839aa0644006e1486684b134485e73cee96f52d"
