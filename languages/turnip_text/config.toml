@@ -2,3 +2,8 @@ name = "turnip_text"
 grammar = "turnip_text"
 path_suffixes = ["ttext"]
 line_comments = ["# "]
+autoclose_before = ",]}"
+brackets = [
+    { start = "{", end = "}", close = true, newline = false },
+    { start = "[", end = "]", close = true, newline = false },
+]
