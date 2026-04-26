@@ -1,1 +1,1 @@
-(scope "{" @open "}" @close)
+(scope (scope_open) @open (scope_close) @close)

@@ -7,7 +7,8 @@
 
 (eval_bracket_identifier) @function ; to highlight indentifer-only eval-brackets specially so that they stand out like more complex ones
 
-(dash) @punctuation.special ; for -- ---
+(endash) @punctuation.special ; for --
+(emdash) @punctuation.special ; for ---
 (escaped) @string.escape ; for \x
 
 ; normal braces { } are handled by rainbow
