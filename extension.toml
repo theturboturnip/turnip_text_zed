@@ -8,4 +8,4 @@ repository = "https://github.com/theturboturnip/turnip_text_zed"
 
 [grammars.turnip_text]
 repository = "https://github.com/theturboturnip/turnip_text_treesitter"
-rev = "3e3def109ec6dc6c701830b0b23faf1509b46571"
+rev = "25b1c8521bac3100e7a7bf16fafe9e78066cec27"
